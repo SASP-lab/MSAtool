@@ -1,5 +1,5 @@
 <a href="img/logo_eesd.png">
-    <img src="img/logo_eesd.png" alt="EESD logo" title="EESD" align="right" height="60" />
+    <img src="img/msatool_logo.png" alt="MSAtool logo" title="MSAtool" align="right" height="60" />
 </a>
 
 # Project name
